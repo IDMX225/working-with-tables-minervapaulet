@@ -1,3 +1,13 @@
 body {
   background-color: aliceblue;
 }
+
+img{
+  width: 300px;
+}
+
+figcaption {
+    text-align: left;
+    font-size: 1rem;
+    font-style: italic;
+}
