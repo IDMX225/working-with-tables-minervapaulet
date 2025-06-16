@@ -1,5 +1,6 @@
 body {
-  background-color: aliceblue;
+  background-color: #99d6ff;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 img{
@@ -19,4 +20,13 @@ table, th, td {
 
 td {
   padding: 8px;
+}
+
+/* Alternating row colors */
+tr:nth-child(even) {
+  background-color: #b3b3b3; /* Light gray */
+}
+
+tr:nth-child(odd) {
+  background-color: #808080; /* White */
 }
