@@ -24,9 +24,9 @@ td {
 
 /* Alternating row colors */
 tr:nth-child(even) {
-  background-color: #b3b3b3; /* Light gray */
+  background-color: #b3b3b3;
 }
 
 tr:nth-child(odd) {
-  background-color: #808080; /* White */
+  background-color: #808080;
 }
