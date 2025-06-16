@@ -7,7 +7,16 @@ img{
 }
 
 figcaption {
-    text-align: left;
-    font-size: 1rem;
-    font-style: italic;
+  text-align: left;
+  font-size: 1rem;
+  font-style: italic;
+}
+
+table, th, td {
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+
+td {
+  padding: 8px;
 }
