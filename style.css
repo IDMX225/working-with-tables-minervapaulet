@@ -3,7 +3,7 @@ body {
   font-family: 'Courier New', Courier, monospace;
 }
 
-img{
+img {
   width: 300px;
 }
 
@@ -29,4 +29,9 @@ tr:nth-child(even) {
 
 tr:nth-child(odd) {
   background-color: #808080;
+}
+
+footer {
+  margin-top: 15px;
+  text-align: center;
 }
